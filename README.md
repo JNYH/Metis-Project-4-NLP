@@ -16,3 +16,6 @@ https://towardsdatascience.com/natural-language-processing-nlp-analysis-of-produ
 
 # Metis Data Science Bootcamp
 https://metis.kaplan.com.sg
+
+# Connect with me:
+https://www.linkedin.com/in/jnyh/
