@@ -12,7 +12,7 @@ Using data we scrape from the web, what can we learn about our data via unsuperv
 Extend your analysis by combining unsupervised and supervised learning methods, or by developing a recommender system, etc.
 
 # Read more:
-https://medium.com/@jamesngyh/
+https://towardsdatascience.com/natural-language-processing-nlp-analysis-of-product-reviews-by-online-shoppers-7a5966f5e615
 
 # Metis Data Science Bootcamp
 https://metis.kaplan.com.sg
