@@ -14,8 +14,8 @@ Extend your analysis by combining unsupervised and supervised learning methods, 
 ## Read more
 https://towardsdatascience.com/natural-language-processing-nlp-analysis-of-product-reviews-by-online-shoppers-7a5966f5e615
 
-## Metis Data Science Bootcamp
-https://metis.kaplan.com.sg
+## Video presentation
+https://www.youtube.com/watch?v=iA8rx-uFJLE
 
 ## Connect with me
 https://www.linkedin.com/in/jnyh/
