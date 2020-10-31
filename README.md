@@ -1,4 +1,4 @@
-﻿# Project-Fletcher
+# Project-Fletcher
 
 Project 4 of Metis Data Science Bootcamp.
 
